@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JinShan</string>
+    <string name="no_data">暂无数据</string>
+    <string name="tab_home">首页</string>
+    <string name="study">学习</string>
+    <string name="loan">贷超</string>
+    <string name="mine">我的</string>
+    <string name="detail">1.年龄在18周岁以上大陆公民 \n2.手机号实名认证 \n3.芝麻信用分在550分以上</string>
+</resources>
